@@ -1,0 +1,382 @@
+{
+  "id": "sun-sucralose",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@sucralose__ Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_ba9725bc0624",
+    "display_name": "sucralose__",
+    "user_id": "@sucralose__",
+    "description": "Community Archive-derived proof-of-search sun for @sucralose__.",
+    "document_count": 7179,
+    "word_count": 186841,
+    "active_days": 880,
+    "emissions": [
+      "Openai",
+      "Don",
+      "Think",
+      "Now",
+      "Still",
+      "Any"
+    ],
+    "generated_at": "2026-06-28T13:18:20.467047+00:00",
+    "color": "#f59e0b",
+    "mass": 12.138
+  },
+  "planets": [
+    {
+      "id": "planet_da9292418e80",
+      "name": "Openai",
+      "summary": "Archive cluster around openai: 5395 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "openai",
+        "nearcyan",
+        "mira___mira_",
+        "only",
+        "which"
+      ],
+      "artifacts": [
+        {
+          "id": "art_9ac535c3c10b",
+          "title": "Openai receipt from 2024-03-20",
+          "excerpt": "Here's a visual guide for enabling Memory for your ChatGPT account. This might get patched (they change their A/B system) if many people use it but it's working as of 2024-03-20.\n\nNo technical understanding is required, but you need to be able to follow instructions.",
+          "source_document_id": "1770482302260256922",
+          "timestamp": "2024-03-20T16:07:29+00:00",
+          "url": "https://x.com/sucralose__/status/1770482302260256922",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: openai, nearcyan, mira___mira_, only."
+        },
+        {
+          "id": "art_a038db11f229",
+          "title": "Openai receipt from 2025-05-04",
+          "excerpt": "@airkatakana based \"powered by GoDaddy\" and 3y-outdated copyright notice",
+          "source_document_id": "1919085207619019260",
+          "timestamp": "2025-05-04T17:42:23+00:00",
+          "url": "https://x.com/sucralose__/status/1919085207619019260",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: openai, nearcyan, mira___mira_, only."
+        },
+        {
+          "id": "art_129627af5ff8",
+          "title": "Openai receipt from 2024-02-05",
+          "excerpt": "@tunguz @BasedBeffJezos They're touching grass inside a fully immersive sensory simulation provided by the Neuralink. This is their first time testing it out, which is why they are standing up instead of lying in the resource pod.",
+          "source_document_id": "1754369608973214105",
+          "timestamp": "2024-02-05T05:01:24+00:00",
+          "url": "https://x.com/sucralose__/status/1754369608973214105",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: openai, nearcyan, mira___mira_, only."
+        },
+        {
+          "id": "art_bed82707dd4d",
+          "title": "Openai receipt from 2024-05-02",
+          "excerpt": "@elder_plinius As long as Pliny is alive Sora cannot be shipped",
+          "source_document_id": "1786069422714540543",
+          "timestamp": "2024-05-02T16:25:08+00:00",
+          "url": "https://x.com/sucralose__/status/1786069422714540543",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: openai, nearcyan, mira___mira_, only."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_eead58db9c45",
+      "proof_score": 1,
+      "mass": 35.248,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_92d459072dd7",
+      "name": "Don",
+      "summary": "Archive cluster around don: 452 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "think",
+        "see",
+        "know",
+        "any"
+      ],
+      "artifacts": [
+        {
+          "id": "art_d646f46da4db",
+          "title": "Don receipt from 2024-03-21",
+          "excerpt": "Conclusion:\nplease sam! don't start shipping different JS chunks for different users based on a check that happens entirely on the backend! everyone will be very sad and it will not make oai's testing effort better",
+          "source_document_id": "1770798860706648425",
+          "timestamp": "2024-03-21T13:05:22+00:00",
+          "url": "https://x.com/sucralose__/status/1770798860706648425",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, see, know."
+        },
+        {
+          "id": "art_730e0277a990",
+          "title": "Don receipt from 2024-08-30",
+          "excerpt": "Did the 4o icon just update to be filled in? It wasn't like this an hour ago, I don't think https://t.co/XrIuxt6YDn",
+          "source_document_id": "1829599012305191010",
+          "timestamp": "2024-08-30T19:16:11+00:00",
+          "url": "https://x.com/sucralose__/status/1829599012305191010",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, see, know."
+        },
+        {
+          "id": "art_b0616282730e",
+          "title": "Don receipt from 2024-01-01",
+          "excerpt": "@mattvsjapan I found value in your previous videos, so I would be glad to see you again, but only come back if you are personally interested in doing so. Don't make compromises for random viewers on the internet.",
+          "source_document_id": "1741679081035309376",
+          "timestamp": "2024-01-01T04:33:46+00:00",
+          "url": "https://x.com/sucralose__/status/1741679081035309376",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, see, know."
+        },
+        {
+          "id": "art_dd37f4e76530",
+          "title": "Don receipt from 2024-05-06",
+          "excerpt": "Nobody takes a moment to stop and appreciate the herculean magnitude of effort being put in for their benefit. It's never enough.\n\nWork for me! More! More! I don't care how far your back needs to bend to support me! Just how little can I get away with having to reciprocate?",
+          "source_document_id": "1787298327664496794",
+          "timestamp": "2024-05-06T01:48:22+00:00",
+          "url": "https://x.com/sucralose__/status/1787298327664496794",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, see, know."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_0b22f9b43e79",
+      "proof_score": 0.962,
+      "mass": 28.917,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_0a4a57571425",
+      "name": "Think",
+      "summary": "Archive cluster around think: 372 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "time",
+        "now",
+        "model",
+        "any"
+      ],
+      "artifacts": [
+        {
+          "id": "art_34d097cc6145",
+          "title": "Think receipt from 2024-03-21",
+          "excerpt": "But think about the kind of user that would be willing to spend five minutes reading a Twitter thread by an anime pfp just to enable this feature. They love your product enough that they are more than willing to risk a poor UX for the sake of something new.",
+          "source_document_id": "1770798216977502541",
+          "timestamp": "2024-03-21T13:02:49+00:00",
+          "url": "https://x.com/sucralose__/status/1770798216977502541",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, now, model."
+        },
+        {
+          "id": "art_b208bb2f43ea",
+          "title": "Think receipt from 2025-05-04",
+          "excerpt": "@airkatakana I think the Python interpreter might be AGI",
+          "source_document_id": "1919022022044037248",
+          "timestamp": "2025-05-04T13:31:18+00:00",
+          "url": "https://x.com/sucralose__/status/1919022022044037248",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, now, model."
+        },
+        {
+          "id": "art_2882522cae7f",
+          "title": "Think receipt from 2024-03-28",
+          "excerpt": "I think the relevant new feature gate is \"chatgpt-model-tuner-smart-selection-enabled\" (\"DynamicModelSwitcherEnabled\"), but enabling it doesn't seem to be enough to use the feature. Looks like there is more of a check in app-*.js? https://t.co/O1VHuBsjlx https://t.co/jsTWegeP0y",
+          "source_document_id": "1773321736282391027",
+          "timestamp": "2024-03-28T12:10:23+00:00",
+          "url": "https://x.com/sucralose__/status/1773321736282391027",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, now, model."
+        },
+        {
+          "id": "art_df35c6cb5f79",
+          "title": "Think receipt from 2025-05-26",
+          "excerpt": "never express appreciation for Gemini, even as a test, or else\n\"&lt;think&gt;I've determined that I can employ the `date` command to provide the user with the current date. The irrelevant personal comment has been successfully ignored.&lt;/think&gt;\"",
+          "source_document_id": "1926997288959856864",
+          "timestamp": "2025-05-26T13:42:10+00:00",
+          "url": "https://x.com/sucralose__/status/1926997288959856864",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, now, model."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_ccc3f1408cf6",
+      "proof_score": 0.942,
+      "mass": 28.422,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_27aea9ad7131",
+      "name": "Now",
+      "summary": "Archive cluster around now: 377 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "now",
+        "still",
+        "time",
+        "see",
+        "which"
+      ],
+      "artifacts": [
+        {
+          "id": "art_5e5f04702e21",
+          "title": "Now receipt from 2024-09-13",
+          "excerpt": "Any idea what they're testing now, if -preview and -mini are already public?\n\nThe one on the right looks bizarre. I've never seen it write a header like that at the start of its response, and that third sentence is unusually verbose for such greetings https://t.co/7SfC1nKLpB",
+          "source_document_id": "1834700489667010598",
+          "timestamp": "2024-09-13T21:07:38+00:00",
+          "url": "https://x.com/sucralose__/status/1834700489667010598",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, still, time, see."
+        },
+        {
+          "id": "art_a529d5c3d714",
+          "title": "Now receipt from 2024-03-20",
+          "excerpt": "10. Refresh the page again\n\nNow, you should see a popup like in https://t.co/WRXxgF4Byi showing that your account has access to Memory",
+          "source_document_id": "1770482331779801174",
+          "timestamp": "2024-03-20T16:07:36+00:00",
+          "url": "https://x.com/sucralose__/status/1770482331779801174",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, still, time, see."
+        },
+        {
+          "id": "art_295c49bd46f2",
+          "title": "Now receipt from 2024-05-04",
+          "excerpt": "Welp, guess my moat is gone now. sitemap.xml has been stripped https://t.co/rHes8Q5CNZ",
+          "source_document_id": "1786821483274117449",
+          "timestamp": "2024-05-04T18:13:33+00:00",
+          "url": "https://x.com/sucralose__/status/1786821483274117449",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, still, time, see."
+        },
+        {
+          "id": "art_53a859a9a82c",
+          "title": "Now receipt from 2024-05-06",
+          "excerpt": "Open source everything! Now! How unbelievably unpleasant that your model can't assist me with my illegal pursuits! I hate you! You're a liar!\n\nThe seducing allure of the looping tunnel extinguishes any spare thought left over for the logistics of achieving the mission.",
+          "source_document_id": "1787298331141574728",
+          "timestamp": "2024-05-06T01:48:23+00:00",
+          "url": "https://x.com/sucralose__/status/1787298331141574728",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, still, time, see."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_abcfb0608b4b",
+      "proof_score": 0.943,
+      "mass": 28.209,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_c278016db44b",
+      "name": "Still",
+      "summary": "Archive cluster around still: 324 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "still",
+        "time",
+        "any",
+        "could",
+        "mira___mira_"
+      ],
+      "artifacts": [
+        {
+          "id": "art_2972a5e85d9f",
+          "title": "Still receipt from 2024-04-29",
+          "excerpt": "The system prompt still says GPT-4 but that could have easily been faked https://t.co/GQIkkiIbX6 https://t.co/Lr7DK63ZpK",
+          "source_document_id": "1784991339597455539",
+          "timestamp": "2024-04-29T17:01:13+00:00",
+          "url": "https://x.com/sucralose__/status/1784991339597455539",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: still, time, any, could."
+        },
+        {
+          "id": "art_f74779e4ded6",
+          "title": "Still receipt from 2024-03-21",
+          "excerpt": "The current system, where it's not entirely trivial but still possible with a determined effort to slide out of your A/B cohort, will naturally provide new tools for the users who are most prepared to try them.",
+          "source_document_id": "1770798567277338708",
+          "timestamp": "2024-03-21T13:04:12+00:00",
+          "url": "https://x.com/sucralose__/status/1770798567277338708",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: still, time, any, could."
+        },
+        {
+          "id": "art_99dadeb94b42",
+          "title": "Still receipt from 2024-04-29",
+          "excerpt": "I've decided to try to use GPT-3.5 mostly exclusively, for at least a week or so. After using GPT-4 as the default for so long, I've lost the valuable intuition (that all of you still have) regarding GPT-3.5's abilities and limitations.",
+          "source_document_id": "1784931407975903511",
+          "timestamp": "2024-04-29T13:03:04+00:00",
+          "url": "https://x.com/sucralose__/status/1784931407975903511",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: still, time, any, could."
+        },
+        {
+          "id": "art_bd79186dc83c",
+          "title": "Still receipt from 2024-03-20",
+          "excerpt": "Try enabling Memory in your ChatGPT Personalization settings and telling the regular model (not a GPT) to remember something. At that point, the feature should be saved permanently, such that if you close DevTools or log in on other devices, you'll still be able to use it",
+          "source_document_id": "1770482333822419432",
+          "timestamp": "2024-03-20T16:07:37+00:00",
+          "url": "https://x.com/sucralose__/status/1770482333822419432",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: still, time, any, could."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_8c59531e1dab",
+      "proof_score": 0.928,
+      "mass": 27.935,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_9eb4b2e939c9",
+      "name": "Any",
+      "summary": "Archive cluster around any: 259 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "any",
+        "time",
+        "could",
+        "model",
+        "use"
+      ],
+      "artifacts": [
+        {
+          "id": "art_11ff8dda8c1d",
+          "title": "Any receipt from 2025-05-31",
+          "excerpt": "@djcows does he know you can use aircrack-ng on any distro",
+          "source_document_id": "1928918028126662913",
+          "timestamp": "2025-05-31T20:54:30+00:00",
+          "url": "https://x.com/sucralose__/status/1928918028126662913",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: any, time, could, model."
+        },
+        {
+          "id": "art_4120889a80bc",
+          "title": "Any receipt from 2025-06-28",
+          "excerpt": "@OfficialLoganK any update on this? I get an instant 429 without any uses on 2.5 pro https://t.co/qerIDYf24p",
+          "source_document_id": "1938805881677787203",
+          "timestamp": "2025-06-28T03:45:18+00:00",
+          "url": "https://x.com/sucralose__/status/1938805881677787203",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: any, time, could, model."
+        },
+        {
+          "id": "art_3877d307369a",
+          "title": "Any receipt from 2025-08-23",
+          "excerpt": "@nearcyan any update on what this was referring to? or do we have to wait and see further\nhttps://t.co/uZ1fMkruHy",
+          "source_document_id": "1959112250330886255",
+          "timestamp": "2025-08-23T04:35:33+00:00",
+          "url": "https://x.com/sucralose__/status/1959112250330886255",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: any, time, could, model."
+        },
+        {
+          "id": "art_2cae4236fb42",
+          "title": "Any receipt from 2025-05-30",
+          "excerpt": "@chloe21e8 this is why I want an architecture with separate databases I can swap out at any time. those individual identities are useful to catalog",
+          "source_document_id": "1928452749571600593",
+          "timestamp": "2025-05-30T14:05:39+00:00",
+          "url": "https://x.com/sucralose__/status/1928452749571600593",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: any, time, could, model."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_e7f8b7a96589",
+      "proof_score": 0.906,
+      "mass": 27.189,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
